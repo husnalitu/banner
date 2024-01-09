@@ -1,0 +1,8 @@
+/* banner style */
+*{
+    margin: 0;
+    padding: 0;
+}
+.banner{
+    background-image: url(/cotton.jpg);
+}
